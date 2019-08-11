@@ -1,4 +1,4 @@
-package ejercicioJavaPalindromo;
+package ejercicioJavaPalabraReves;
 
 import java.util.Arrays;
 /**
